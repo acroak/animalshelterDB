@@ -19,8 +19,10 @@ The theme of my proposed database project is based on pet adoptions and humane s
 ## Process
 * Brainstorm desired tables and data it will hold
 * Create Reational Diagrams and Schema
-  [Schema](https://github.com/acroak/animalshelterDB/blob/main/imgs/Schema.png)
-  [Relational Diagram](https://github.com/acroak/animalshelterDB/blob/main/imgs/uml.png)
+  
+ ![Schema](https://github.com/acroak/animalshelterDB/blob/main/imgs/Schema.png)
+ 
+ ![Relational Diagram](https://github.com/acroak/animalshelterDB/blob/main/imgs/uml.png)
 * Develop Table creation script
 * Research, gather, and clean data for insertion
 * Upon creation od dattabase develop complex questions and translate into queries
